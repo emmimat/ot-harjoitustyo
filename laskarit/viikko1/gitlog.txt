@@ -1,0 +1,113 @@
+commit d828b50480e1e46c212ea58d93696ed4ea4c439a
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 22:05:08 2022 +0300
+
+    file1 poisto ja file2 -> file22
+
+ tiedostoja/file1             | 1 -
+ tiedostoja/{file2 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit cba40b711a141e86417ceacb41abccbae419a81d
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:51:03 2022 +0300
+
+    file 1,2 ja 3 lisäykset
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 1 insertion(+)
+
+commit 41c02eeaef3642bad3cbc0e501210f1e0ce86d4f
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:32:23 2022 +0300
+
+    eka.txt ja kolmas.txt modaukset
+
+ eka.txt    | 2 ++
+ kolmas.txt | 2 +-
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit c9b8f4a08e29bb61859e68ef39f6552dd0d46f8a
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:27:51 2022 +0300
+
+    tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d18042aba5f99fc16b63d9abc994d626f0fbb8fc
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:26:05 2022 +0300
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 72275668a6c3a777d6528a5c17d18453cf0b0ae6
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:14:52 2022 +0300
+
+    tiedosto.txt lisää lätinää
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit 9cd1b94651a419e7041cb0a006b8981d08094b3b
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:13:33 2022 +0300
+
+    tiedosto.txt lorem ipsumit
+
+ tiedosto.txt | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+
+commit 7a3192037bb2ddf0845ff8a8cafbfbf6a92058a8
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 21:00:47 2022 +0300
+
+    Uusi hakemisto ja tiedosto
+
+ stuff/testi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9ead0d2ef8988ecdab9d7e930be1c1b1c7754bff
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 20:58:52 2022 +0300
+
+    Tiedostojen muokkaukset
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 4a60555fd5108abcb843e705d8eec095e42b2900
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 20:56:29 2022 +0300
+
+    Kolmas tiedosto luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit b2b3d3d700b96afc6e30d89c5e51ce68ca7fc9c4
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 20:53:14 2022 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 657c038b50371cb9263a55deed2d1ef430401512
+Author: emmimat <emmi.matila@gmail.com>
+Date:   Tue May 31 20:50:17 2022 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
